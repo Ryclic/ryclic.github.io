@@ -1,5 +1,17 @@
 ---
-title: "About Me"
+title: "About"
 permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. Aenean bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.
+## About Me ##
+
+My name is **Ryan**, but I go by the name **Ryclic** online. I'm currently a high schooler and have my interests set in the realm of cybersecurity. \
+Some of my other interests include playing the clarinet, gaming, video editing, and tinkering with electronics. 
+
+## Purpose ##
+
+This blog is intended to be a place for me to document any interesting discoveries or topics that I will stumble upon. These might include: 
+* HackTheBox or TryHackMe box writeups
+* CTF writeups
+* New technologies 
+
+For the time being, I'm interested in web exploitation and reverse engineering. 
