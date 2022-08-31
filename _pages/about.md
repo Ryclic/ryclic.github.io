@@ -14,4 +14,4 @@ This blog is intended to be a place for me to document any interesting discoveri
 * CTF writeups
 * New technologies 
 
-For the time being, I'm interested in web exploitation and reverse engineering. 
+For the time being, I'm interested in web exploitation, reverse engineering, and malware analysis. 
