@@ -18,6 +18,12 @@ WannaCry utilized the Windows [EternalBlue](https://en.wikipedia.org/wiki/Eterna
 
 Furthermore, WannaCry continued to spread across networks using these exploits, causing the malware to expand rapidly.
 
+## Lab Environment
+All of the experimentation with WannaCry in this article was done on a fully isolated [FlareVM](https://github.com/mandiant/flare-vm) box. Tools such as Wireshark, Cutter, procmon, and TCPView were used.
+ 
+<ins>**Disclaimer**</ins>: Running malware on your own system can be dangerous. If you choose to do so, take the proper safety measures to isolate your virtual machine. A sample of live WannaCry can be found here: [Source](https://github.com/ytisf/theZoo/blob/master/malware/Binaries/Ransomware.WannaCry/Ransomware.WannaCry.zip)
+
+
 ## Infection Analysis
 When detonated, WannaCry creates numerous files on the Desktop, including:
 - @Please_Read_Me@.txt
