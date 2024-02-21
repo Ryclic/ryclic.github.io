@@ -1,7 +1,8 @@
 ---
+title: "About Me"
 permalink: /about/
 ---
-## About Me
+## Personal Info
 
 My name is **Ryan**, but I go by the name **Ryclic** online. I'm a current high schooler in the US.
 
