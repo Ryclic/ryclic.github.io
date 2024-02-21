@@ -2,6 +2,7 @@
 title: "About Me"
 permalink: /about/
 ---
+![Firewatch]({{ site.url }}{{ site.baseurl }}/assets/images/firewatch.jpg)
 ## Personal Info
 
 My name is **Ryan**, but I go by the name **Ryclic** online. I'm a current high schooler in the US.
