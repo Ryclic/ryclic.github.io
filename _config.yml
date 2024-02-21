@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Ryclic's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Cybersecurity and more!" # site tagline that appears below site title in masthead
 name                     : "Ryan Chen"
 description              : "Cybersecurity and programming blog"
 url                      : "https://ryclic.ga" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Ryclic"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<i>Programming and cybersecurity enthusiast.</i>"
+  bio              : "<i>Aspiring computer scientist.</i>"
   location         : "United States"
   email            :
   links:
