@@ -4,6 +4,7 @@ toc_label: "Table of Contents"
 toc_icon: "list"
 title: "TryHackMe: Ignite"
 excerpt: "Ignite is an easy, free box on TryHackMe centered around web exploitation."
+category: thm
 ---
 ![Ignite Logo]({{ site.url }}{{ site.baseurl }}/assets/images/THM/Ignite/logo.png)
 
