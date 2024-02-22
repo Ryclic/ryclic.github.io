@@ -53,7 +53,7 @@ To find the offset of system, we'll use GDB to check the exact address of the fu
 ![System Offset]({{ site.url }}{{ site.baseurl }}/assets/images/ropemporium/split/systemoffset.png)
 
 Perfect, now we can build our ROP chain!
-### Building ROP chain
+### Building ROP Chain
 A quick recap:
 We need to first call our `POP_RDI` gadget with the address of our cat string. Then, we need to call system directly with our register already set, and we're done.
 
