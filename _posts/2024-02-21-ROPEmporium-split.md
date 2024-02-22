@@ -3,6 +3,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "list"
 title: "ROPEmporium: split"
+excerpt: "'split' focuses on basic ROP, utilizing gadgets to populate registers in order to call a function in x64 with function parameters."
 ---
 ## Preface
 'split' focuses on basic ROP, utilizing gadgets to populate registers in order to call a function in x64 with function parameters.

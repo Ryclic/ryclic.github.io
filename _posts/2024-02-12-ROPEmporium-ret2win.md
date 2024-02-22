@@ -3,6 +3,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "list"
 title: "ROPEmporium: ret2win"
+excerpt: "'ret2win' focuses on basic buffer overflow and return address overwriting."
 ---
 ## Preface
 Having not practiced binary exploitation in a while, I thought it was a good idea to return to basics and practice solving all the ROPemporium challenges again.

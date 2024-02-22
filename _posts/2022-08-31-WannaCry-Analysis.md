@@ -4,6 +4,7 @@ layout: single
 header:
   image: /assets/images/WannaCry/infection.png
 words_per_minute: 120
+excerpt: "WannaCry was a ransomware worm that rapidly spread globally in May of 2017, infecting nearly 200,000 computers across 150 countries."
 ---
 
 ## What is WannaCry?

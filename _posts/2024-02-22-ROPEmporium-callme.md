@@ -3,6 +3,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "list"
 title: "ROPEmporium: callme"
+excerpt: "'callme' focuses on leveraging the PLT in order to call functions whose addresses is not resolved until runtime."
 ---
 ## Preface
 'callme' focuses on leveraging the PLT in order to call functions whose addresses is not resolved until runtime.
